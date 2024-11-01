@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9542c055-0262-405b-a515-5a2419f8a95a)# Awesome Ox
+# Awesome Ox
 
 A curated list of resources or projects related to ox_core.
 
